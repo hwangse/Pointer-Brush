@@ -10,7 +10,7 @@
 
 ## Details
 
-<img src="./gif/2.gif" width="600" alt="house"></img>
+<img src="./gif/2-2.gif" width="600" alt="house"></img>
  
 <img src="./gif/3.gif" width="600" alt="wind"></img>
 
