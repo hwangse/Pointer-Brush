@@ -10,14 +10,14 @@
 
 ## Details
 
-<img src="./git/2.gif" width="600" alt="house"></img>
+<img src="./gif/2.gif" width="600" alt="house"></img>
  
-<img src="./git/3.gif" width="600" alt="wind"></img>
+<img src="./gif/3.gif" width="600" alt="wind"></img>
 
-<img src="./git/4.gif" width="600" alt="wind"></img>
+<img src="./gif/4.gif" width="600" alt="wind"></img>
 
-<img src="./git/5.gif" width="600" alt="tree"></img>
+<img src="./gif/5.gif" width="600" alt="tree"></img>
 
-<img src="./git/6.gif" width="600" alt="moon"></img>
+<img src="./gif/6.gif" width="600" alt="moon"></img>
 
-<img src="./git/7.gif" width="600" alt="tada"></img>
+<img src="./gif/7.gif" width="600" alt="tada"></img>
